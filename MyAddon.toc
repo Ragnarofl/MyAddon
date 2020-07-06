@@ -1,0 +1,5 @@
+## Interface: 80300
+## Title: MyAddon
+## Author: Ragnarøfl
+## Version: 1.0.0
+MyAddon.lua
